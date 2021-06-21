@@ -22,7 +22,7 @@ console.log(`
 
 console.log('-------------------------------------');
 console.log(
-	'[CREDITS]: made by legend-js & ant | https://github.com/legend-js-dev | LΣGΣПD#0001 | ant#0768'
+	'[CREDITS]: made by legend-js & ant | https://github.com/legend-js-dev | legendjs#0001 | ant#0768'
 );
 console.log('-------------------------------------');
 //this took me some time so dont you dare remove credits, if u do remove credits then you will have copy right issues.
